@@ -1,0 +1,16 @@
+
+
+
+.grid {
+  margin: 100px;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+
+.btn{
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: bisque;
+}
